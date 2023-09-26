@@ -1,2 +1,2 @@
 # Brain_Stroke_Prediction
-Developed a robust brain stroke prediction model leveraging machine learning techniques. By analyzing a comprehensive dataset and applying advanced feature engineering, the model accurately identifies individuals at risk of experiencing a brain stroke.
+Developed a robust brain stroke prediction model leveraging machine learning techniques. The Random Forest classifier has 90% classification accuracy, which was the highest (among all the machine learning classifiers).
